@@ -1,6 +1,6 @@
 {
-  "vendor": "vtex",
-  "name": "admin-vbase-example",
+  "vendor": "estilospe",
+  "name": "estilospe-app-admin",
   "version": "0.0.2",
   "title": "Admin Example - VBase",
   "description": "Admin Example - VBase",
@@ -13,7 +13,8 @@
     "graphql": "1.x"
   },
   "dependencies": {
-    "vtex.styleguide": "9.x"
+    "vtex.styleguide": "9.x",
+    "estilospe.graphql-service": "1.x"
   },
   "registries": [
     "smartcheckout"

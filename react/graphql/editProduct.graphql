@@ -1,0 +1,29 @@
+mutation ($sku: String, $prod:Product) {  
+ 	editProduct(
+        sku: $sku
+        prod: $prod
+    )
+    @context(provider: "estilospe.graphql-service") {
+        Id,
+        Name,
+        DepartmentId,
+        CategoryId,
+        BrandId,
+        LinkId,
+        RefId,
+        IsVisible,
+        Description,
+        DescriptionShort,
+        ReleaseDate,
+        KeyWords,
+        Title,
+        IsActive,
+        TaxCode,
+        MetaTagDescription,
+        SupplierId,
+        ShowWithoutStock,
+        AdWordsRemarketingCode,
+        LomadeeCampaignCode0,
+        Score
+    } 
+}
