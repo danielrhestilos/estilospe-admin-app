@@ -13,8 +13,7 @@
     "graphql": "1.x"
   },
   "dependencies": {
-    "vtex.styleguide": "9.x",
-    "estilospe.graphql-service": "1.x"
+    "vtex.styleguide": "9.x"
   },
   "registries": [
     "smartcheckout"
