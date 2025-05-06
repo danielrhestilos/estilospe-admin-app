@@ -1,6 +1,7 @@
 {
   "admin-example.navigation.label": "Aplicacíon de Ejemplo de Admin",
   "admin-example.navigation.search.kws": "token",
-  "admin-example.navigation.insight": "Insights",
-  "admin-example.navigation.management": "Management"
+  "admin-example.navigation.insight": "App Estilos Accesories",
+  "admin-example.navigation.management": "Management",
+    "admin-example.navigation.cruzada": "Management"
 }

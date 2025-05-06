@@ -54,8 +54,8 @@ const AdminOtherExample: FC = () => {
   return (
     <Layout>
       <PageBlock
-        title="SEO Productos v0.9.0"
-        subtitle="Modificar masivamente los productos (meta description, title, name)"
+        title="Accesorios Productos v0.9.0"
+        subtitle="Modificar masivamente los productos (Skus separados por comas)"
         variation="full"
       >
        
