@@ -4,10 +4,6 @@
     "path": "/admin/app/adminExample"
   },
   "admin.app.otherexample": {
-    "component": "adminOtherExample",
-    "path": "/admin/app/adminOtherExample"
-  },
-  "admin.app.ventacruzada": {
     "component": "adminVentaCruzada",
     "path": "/admin/app/adminVentaCruzada"
   }

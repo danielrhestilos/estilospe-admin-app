@@ -3,15 +3,9 @@
   "titleId": "admin-example.navigation.label",
   "searchKeyWordsHelpers": "admin-example.navigation.search.kws",
   "subSectionItems": [
-
     {
       "labelId": "admin-example.navigation.management",
-      "path": "/admin/adminOtherExample"
-    },
-
-    {
-      "labelId": "admin-example.navigation.cruzada",
-      "path": "/admin/ventaCruzada"
+      "path": "/admin/adminVentaCruzada"
     }
   ]
 }
