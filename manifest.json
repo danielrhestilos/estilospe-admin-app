@@ -1,7 +1,7 @@
 {
   "vendor": "estilospe",
   "name": "estilospe-app-admin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Admin Example - VBase",
   "description": "Admin Example - VBase",
   "builders": {
