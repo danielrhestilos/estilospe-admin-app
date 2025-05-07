@@ -1,6 +1,7 @@
 import React, { useState} from "react";
 import * as XLSX from "xlsx";
 
+
 type RowData = Record<string, string | number | boolean | null>;
 
 const ExcelToJsonViewer: React.FC = () => {
@@ -29,8 +30,9 @@ const ExcelToJsonViewer: React.FC = () => {
   };
 
   return (
-    <div style={{ padding: "1rem", fontFamily: "Arial" }}>
-      <h2>Sube un archivo Excel</h2>
+    <div style={{ padding: "1rem", fontFamily: "Outfit" }}>
+      <h2>App </h2>
+      ---
       <input type="file" accept=".xlsx, .xls" onChange={handleFileUpload} />
 
       {jsonData.length > 0 && (
